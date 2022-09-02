@@ -19,5 +19,9 @@ public class HelloWorld {
         System.out.println("06/05/2001");
         System.out.println("7 Hoàng Văn Thắng");
         System.out.println("10/10/2001");
+        System.out.println("8. SIVONGKONE Phouvilay");
+        System.out.println("19/08/2000");
+        System.out.println("9 MOUKDASAK Koppy");
+        System.out.println("31/12/2001");
 }
 }
